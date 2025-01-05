@@ -1,0 +1,10 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 315000000
+Preset: FuriHalSubGhzPresetOok270Async
+Latitute: 0.000000
+Longitude: 0.000000
+Protocol: Princeton
+Bit: 24
+Key: 00 00 00 00 00 01 0D 03
+TE: 211
